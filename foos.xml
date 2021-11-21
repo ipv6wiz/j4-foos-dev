@@ -77,9 +77,9 @@
 			<folder>src</folder>
 		</files>
 	</api>
-	<changelogurl>https://raw.githubusercontent.com/astridx/boilerplate/tutorial/changelog.xml</changelogurl>
+	<changelogurl>https://raw.githubusercontent.com/ipv6wiz/j4-foos-dev/main/changelog.xml</changelogurl>
 	<updateservers>
-		<server type="extension" name="Foo Updates">https://raw.githubusercontent.com/astridx/boilerplate/tutorial/foo_update.xml</server>
+		<server type="extension" name="Foo Updates">https://raw.githubusercontent.com/ipv6wiz/j4-foos-dev/main/foo_update.xml</server>
 	</updateservers>
 	<dlid prefix="dlid=" suffix="" />
 </extension>
